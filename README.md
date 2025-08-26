@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Isaac Frejoli
 
-**`Desenvolvedor Frontend`**
+**`Desenvolvedor Fullstack | Automação com n8n & Python | Bots & Integrações`**
 
 Me chamo Isaac Braga Frejoli Domingues, tenho 19 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no Colégio Pedro II. Atualmente, estou cursando Engenharia da Computação na UniRedentor. Sou apaixonado por tecnologia e sempre me interessei por programação, tenho um perfil chamado "[frejoli_dev](https://www.instagram.com/frejoli_dev/)" aonde mostro o meu dia a dia como programador.
 
