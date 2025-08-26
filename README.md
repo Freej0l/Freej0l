@@ -41,6 +41,7 @@ Meu foco é transformar processos manuais em soluções inteligentes, rápidas e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+![n8n](https://img.shields.io/badge/n8n-EE6C4D?style=for-the-badge&logo=n8n&logoColor=white)
 
 <br/>
 <br/>
