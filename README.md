@@ -2,47 +2,31 @@
 
 **`Desenvolvedor Fullstack | Automação com n8n & Python | Bots & Integrações`**
 
-###👨‍💻 Sobre mim
+# 👋 Olá, eu sou o Isaac (@Freej0l)
 
-Sou apaixonado por tecnologia e especializado em automação de processos, integrações e desenvolvimento fullstack. Atualmente curso Engenharia da Computação na UniRedentor e compartilho meus projetos e aprendizados no perfil @frejoli_dev. 
-Meu foco é transformar processos manuais em soluções inteligentes, rápidas e escaláveis.
+🎓 Estudante de Engenharia da Computação na UniRedentor  
+🚀 Transformando processos manuais em soluções inteligentes, rápidas e escaláveis  
+📚 Compartilho projetos e aprendizados aqui e no perfil @frej0l_dev
 
 ---
 
-### 🛠 Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EE6C4D?style=for-the-badge&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![N8N](https://img.shields.io/badge/-n8n-orange?style=flat&logo=n8n)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
+## 📊 Estatísticas do GitHub
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Freej0l&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=Freej0l&show_icons=true&theme=tokyonight)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Freej0l&layout=compact&theme=tokyonight)
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Freej0l&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+---
 
-</p>
+## 🌐 Onde me encontrar
 
-<p>
-###📬 Contato
-📬 Onde me encontrar:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-frejoli-060537324/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Freej0l)  
-
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaac-frejoli-060537324/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Freej0l)
