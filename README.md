@@ -17,8 +17,8 @@ Fullstack Developer | Workflow Automation (n8n & Python) | API Integrations & AI
 ![N8N](https://img.shields.io/badge/-n8n-orange?style=flat&logo=n8n)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
----
 
+---
 
 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Freej0l&show_icons=true&theme=tokyonight)
