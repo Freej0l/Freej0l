@@ -23,7 +23,7 @@ Fullstack Developer | Workflow Automation (n8n & Python) | API Integrations & AI
 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Freej0l&show_icons=true&theme=tokyonight)  
 <br>
-
+---
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Freej0l&layout=compact&theme=tokyonight)
 
 ---
